@@ -40,8 +40,6 @@ docker pull cndocker/kcp-server:latest
 ```bash
 wget --no-check-certificate https://github.com/cndocker/kcp-server-docker/raw/master/images/docker-kcp-server.tar
 ```
-###镜像MD5
-    f2896a74fa2b4e69237f1f1294575a54 docker-kcp-server.tar
 
 # 三、使用
 ##启动命令
